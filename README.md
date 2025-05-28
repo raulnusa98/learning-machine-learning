@@ -7,7 +7,7 @@ Each notebook focuses on a key concept, implementing it from first principles wh
 ## 📚 Topics covered (in progress)
 
 - [x] PCA from scratch (Iris dataset)
-- [ ] Linear regression from scratch
+- [x] Linear regression from scratch
 - [ ] Probability and basic statistics
 - [ ] Gradient descent and optimization
 - [ ] Regularization techniques (L1, L2)
@@ -21,6 +21,8 @@ My goal is to build strong foundations in machine learning — from algebra and 
 ## 🛠 Tools
 
 - Python
+- Seaborn
 - NumPy / Pandas / Matplotlib
 - scikit-learn (for comparison only)
 - Google Colab
+- mpl_toolkits.mplot3d
